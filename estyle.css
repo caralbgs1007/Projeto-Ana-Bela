@@ -1,0 +1,32 @@
+body{
+	background-image: url('imagens/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+.menu{	
+	padding-bottom: 20px;
+	padding-top: 20px;	
+}
+.link-menu{
+	color: #565B73;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 5px;
+}
+.paragrafo{
+	background-color: #F8F2EA;
+	padding: 3px 10px 3px 10px;	
+	width: 880px;	
+}
+.rodape{
+	width: 900px;
+	text-align: center;
+}
+.cabecalho-paragrafo{
+	color: #A29B5E;
+}
+.foto{
+	border: 10px solid #A29B5E;
+}
+.contato{
+	padding: 15px 15px 15px 0px;
+}
